@@ -1,5 +1,5 @@
 
-[![Build Status](https://keremidarska-o365.visualstudio.com/First_GH/_apis/build/status/vkpipelines.pipelines-java?branchName=master)](https://keremidarska-o365.visualstudio.com/First_GH/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://keremidarska-o365.visualstudio.com/First_GH/_apis/build/status%2Fvkpipelines.LinkedWithAzDO?branchName=master)](https://keremidarska-o365.visualstudio.com/First_GH/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
